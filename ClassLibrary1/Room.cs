@@ -18,7 +18,7 @@ namespace ClassLibrary1
         }
 
         
-        public void Show()
+        public void Show()//Салов Даниил
         {
             Console.WriteLine($"Команата: {Name}, площадь: {Area} квМ");
         }

@@ -19,7 +19,7 @@ namespace ConsoleApp1
             myApartment.AddRoom(new Room("Кухня", 12.5));
 
             
-            myApartment.ShowAll();
+            myApartment.ShowAll();//Салов Даниил
 
             Console.ReadLine();
         }

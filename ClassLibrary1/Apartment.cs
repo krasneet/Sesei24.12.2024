@@ -31,7 +31,7 @@ namespace ClassLibrary1
             Console.WriteLine($"Номер кв: {Number}, Владелец: {Owner}");
             foreach (var room in Rooms)
             {
-                room.Show();
+                room.Show();//Салов Даниил
             }
         }
     }
